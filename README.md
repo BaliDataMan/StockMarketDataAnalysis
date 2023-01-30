@@ -1,2 +1,7 @@
 # Stock Market Data Analysis
-Analyzing& Visualization Stock Markets Data, which include Yahoo, Apple, Amazon, Microsoft, Google.
+Analyzing and Visualization Stock Market Data, which include companies like:
+- Yahoo, 
+- Apple,
+- Amazon,
+- Microsoft,
+- Google.
